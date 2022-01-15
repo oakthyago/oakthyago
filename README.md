@@ -1,5 +1,7 @@
 Electrical Engineer ->
+
 Data Scientist ->
+
 Poker Player
 
 I'd love to say that I am a professional poker player tough it would sound professional on a business social media.
