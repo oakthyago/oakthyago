@@ -9,5 +9,8 @@ Data Scientist ->
 
 Poker Player
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
 I'd love to say that I am a professional poker player tough it would not sound professional.
 Then When I am out my house, I Project solar systems at @Sol.ability and When I am on the computer I work on dataset and statistical learning.
