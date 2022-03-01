@@ -16,6 +16,6 @@ Then When I am out my house, I Project solar systems at @Sol.ability and When I 
 
 <div>
 <a href="https://github.com/oakthyago">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oakthyago&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oakthyago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
