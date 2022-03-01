@@ -1,6 +1,35 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318AC25&lines=Welcome+to+my+profile!;I+m+Thyago+Carvalho;Machine+Learning+Enthusiast;Member+of+Kaggle+community)](https://git.io/typing-svg)
 
+
+<!doctype html>
+<html>
+    <head>
+        <title>Column example</title>
+        <style type="text/css">
+            .col-a {
+                float: left;
+                width: 100%;
+                margin-left: -200px;
+            }
+            .col-a-content {
+                padding-left: 200px;
+            }
+            .col-b {
+                float: right;
+                width: 200px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="col-a">
+            <div class="col-a-content">col-a</div>
+        </div>
+        <div class="col-b">col-b</b>
+    </body>
+</html>
+
+
 Electrical Engineer ->
 
 Data Scientist ->
