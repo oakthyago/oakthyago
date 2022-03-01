@@ -14,6 +14,7 @@ I'd love to say that I am a professional poker player tough it would not sound p
 Then When I am out my house, I Project solar systems at @Sol.ability and When I am on the computer I work on dataset and statistical learning.
 
 
+
 <div>
 <a href="https://github.com/oakthyago">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oakthyago&layout=compact&langs_count=7&theme=dracula"/>
