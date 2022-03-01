@@ -32,4 +32,4 @@ Then When I am out my house, I Project solar systems at @Sol.ability and When I 
 </div>
   
   
-  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
