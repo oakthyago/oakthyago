@@ -34,7 +34,7 @@ Property | Data
 </div>
 
   
-  ### Contatos:
+  ### Contact:
 
 <div>
 
