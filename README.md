@@ -1,7 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318AC25&lines=Welcome+to+my+profile!;I+m+Thyago+Carvalho;Machine+Learning+Enthusiast;Member+of+Kaggle+community)](https://git.io/typing-svg)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/>
+[comment]: <> (C, python)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 Electrical Engineer ->
 
