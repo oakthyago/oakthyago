@@ -6,7 +6,7 @@
 
 Electrical Engineer ->
 
-Data Scientist ->
+Data Scientist 
 
 
 
