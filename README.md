@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318AC25&lines=Welcome+to+my+profile!;I+m+Thyago+Carvalho;Machine+Learning+Enthusiast;Member+of+Kaggle+community)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile;My+name+is+Thyago;I+turn+data+%26+AI+into+software)](https://git.io/typing-svg)
 
-[comment]: <> (C, python)
+[comment]: <> (C, python, Java)
 
 
 Electrical Engineer ->
@@ -12,7 +12,7 @@ Data Scientist
 
 
 
-Comercial Agent in Banco do Brasil.
+Business Especialist in Banco do Brasil.
 
 
 
