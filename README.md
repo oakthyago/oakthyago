@@ -6,11 +6,7 @@
 
 Electrical Engineer ->
 
-Data Scientist 
-
-
-
-
+Dev ->
 
 Business Especialist in Banco do Brasil.
 
