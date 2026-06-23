@@ -1,6 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile;My+name+is+Thyago;I+turn+data+%26+AI+into+software)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&lines=Welcome+to+my+profile;Electrical+Engineer+turned+Dev;I+turn+data+%26+AI+into+software)](https://github.com/oakthyago)
 
 ## 👋 Hi, I'm Thyago
